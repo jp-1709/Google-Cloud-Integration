@@ -18,13 +18,7 @@ cd ~/your-bench-name
 ### 2️⃣ Get the App from Git Repository
 
 ``` bash
-bench get-app investment_portfolio_management https://github.com/QuantbitERP/quantbit_investment_portfolio_management.git
-```
-
-### 3️⃣ Install the App on Your Site
-
-``` bash
-bench --site your-site-name install-app investment_portfolio_management
+bench get-app  https://github.com/QuantbitERP/quantbit_investment_portfolio_management.git
 ```
 
 ### 4️⃣ Run Migration
